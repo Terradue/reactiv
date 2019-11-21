@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(name='reactiv',
       version='1.0.3',
       description='Rapid and EAsy Change detection in radar TIme-series by Variation coefficient',
-      long_description=open('README.md').read(),
+      long_description='see https://github.com/elisekoeniguer/REACTIV',
       url='https://github.terradue.com/reactiv.git',
       author='Elise Colin Koeniguer et al',
       license='GNU General Public License v3.0',
